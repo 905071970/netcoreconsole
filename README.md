@@ -1,2 +1,2 @@
 # netcoreconsole
-Linux上运行的C
+Linux上运行的C#项目
